@@ -1,6 +1,4 @@
 
-# Hi, I'm Shivam Pandey 👋
-
 <p align="center">
   <img src="https://github.com/ShivamSp777/ShivamSp777/blob/main/github-banner.png.png" alt="Shivam Pandey GitHub Banner" width="100%" /> 
 </p>
