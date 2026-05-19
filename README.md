@@ -87,10 +87,9 @@ Designed a secure authentication flow with token lifecycle management.
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamSp777&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSp777&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSp777&hide_border=true"/>
+</p>
 
 ---
 
@@ -106,8 +105,8 @@ Designed a secure authentication flow with token lifecycle management.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ShivamSp777  
-- LinkedIn: (add your LinkedIn link here)  
-- Email: (optional)
+- LinkedIn: https://www.linkedin.com/in/shivam-pandey-798a85152/ 
+- Email: pandeyshivamsp526@gmail.com
 
 ---
 
