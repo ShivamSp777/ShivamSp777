@@ -6,6 +6,10 @@
 <h1 align="center">Shivam Pandey</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3000&color=0A84FF&center=true&vCenter=true&width=520&lines=iOS+Developer;Swift+%7C+SwiftUI+%7C+UIKit;Building+Seamless+iOS+Experiences" />
+</p>
+
+<p align="center">
   iOS Engineer | Real-Time Systems | High Performance Mobile Apps
 </p>
 
