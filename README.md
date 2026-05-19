@@ -1,6 +1,16 @@
 
 # Hi, I'm Shivam Pandey 👋
 
+<p align="center">
+  <img src="https://github.com/ShivamSp777/ShivamSp777/blob/main/github-banner.png.png" alt="Shivam Pandey GitHub Banner" width="100%" /> 
+</p>
+
+<h1 align="center">Shivam Pandey</h1>
+
+<p align="center">
+  iOS Engineer | Real-Time Systems | High Performance Mobile Apps
+</p>
+
 🚀 iOS Engineer | 4+ Years | Scalable, Real-Time & High-Performance Mobile Systems
 
 I build production-grade iOS applications focused on **performance, scalability, and real-world system reliability**.  
