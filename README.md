@@ -1,117 +1,169 @@
+---
 
-<p align="center">
-  <img src="https://github.com/ShivamSp777/ShivamSp777/blob/main/github-banner.png.png" alt="Shivam Pandey GitHub Banner" width="100%" /> 
-</p>
+# 🚀 About Me
 
-<h1 align="center"> iOS Engineer | Real-Time Systems | High Performance Mobile Apps</h1>
+```swift
+struct IOSEngineer {
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=3000&color=0A84FF&center=true&vCenter=true&width=520&lines=iOS+Developer;Swift+%7C+SwiftUI+%7C+UIKit;Building+Seamless+iOS+Experiences" />
-</p>
+    let name = "Shivam Pandey"
 
-🚀 iOS Engineer | 5+ Years | Scalable, Real-Time & High-Performance Mobile Systems
+    let role = "Senior iOS Engineer"
 
-I build production-grade iOS applications focused on **performance, scalability, and real-world system reliability**.  
-Specialized in designing mobile systems that handle **real-time data, high-frequency updates, and device-driven communication workflows**.
+    let experience = "5 Years"
+
+    let expertise = [
+        "Real-Time Systems",
+        "Performance Optimization",
+        "Scalable Architecture",
+        "Concurrency",
+        "System Design"
+    ]
+}
+```
+
+I build production-grade iOS applications focused on:
+
+* ⚡ High-performance rendering
+* 📡 Real-time communication systems
+* 🏗️ MVVM + Clean Architecture
+* 🚀 Enterprise-scale mobile applications
+* 🔄 Data synchronization systems
+* 🔒 Secure authentication frameworks
+* 📈 Performance optimization and profiling
 
 ---
 
-## 🧠 About Me
+# 🧠 Core Expertise
 
-- 💻 iOS Engineer with strong expertise in Swift, UIKit, and SwiftUI  
-- ⚙️ Experienced in building **real-time systems (MQTT / WebSockets / Socket-based architectures)**  
-- 🏗️ Strong advocate of **MVVM + Clean Architecture + modular design principles**  
-- ⚡ Focused on **performance optimization, concurrency, and memory efficiency**  
-- 🔍 Skilled in debugging production issues using Instruments & profiling tools  
-- 🚀 Passionate about building scalable mobile systems used in production environments  
+### 📡 Real-Time Systems
 
----
+* MQTT
+* WebSockets
+* Socket Architectures
+* Device Communication
 
-## 🛠️ Tech Stack
+### ⚡ Performance
 
-**Languages:** Swift, Objective-C (basic)  
-**UI Frameworks:** UIKit, SwiftUI  
-**Architecture:** MVVM, Clean Architecture  
-**Concurrency:** async/await, GCD, OperationQueue  
-**Networking:** REST APIs, WebSockets, MQTT  
-**Storage:** CoreData, UserDefaults, Keychain  
-**Tools:** Xcode, Instruments, Git, Fastlane  
-**Analytics & Monitoring:** Firebase, Crashlytics  
+* Instruments
+* Memory Optimization
+* UI Rendering
+* Profiling
 
----
+### 🏗 Architecture
 
-## ⚡ Core Expertise
+* MVVM
+* Clean Architecture
+* Modular Design
+* Dependency Injection
 
-- Real-time mobile application development  
-- High-performance UI rendering & optimization  
-- Multi-threading & concurrency management  
-- System design for scalable iOS applications  
-- Offline-first architecture & data synchronization  
-- Secure authentication flows & session management  
+### 🔄 Concurrency
+
+* Async/Await
+* GCD
+* OperationQueue
+* Combine
 
 ---
 
-## 📱 Featured Work
+# 🛠 Tech Stack
 
-### 📡 Real-Time IoT Monitoring System
-Built a low-latency iOS application to monitor IoT devices in real time using MQTT.
+## Languages
 
-- Designed resilient message handling with retry & persistence logic  
-- Optimized background connectivity for stable device communication  
-- Improved reliability in high-frequency data environments  
-
-**Tech Stack:** Swift, MQTT, CoreData, MVVM
+## Frameworks & Tools
 
 ---
 
-### 📊 High-Performance Data Streaming Dashboard
-Developed a real-time dashboard handling continuous high-frequency updates.
+# 📱 Featured Projects
 
-- Implemented optimized UI rendering for smooth updates  
-- Reduced UI lag using batching and throttling strategies  
-- Improved responsiveness under heavy data loads  
+## 📡 Real-Time IoT Monitoring Platform
 
-**Tech Stack:** UIKit, Combine, WebSockets
+Production-grade monitoring solution handling live device communication.
 
----
+### Highlights
 
-### 🔐 Secure Authentication Framework
-Designed a secure authentication flow with token lifecycle management.
+* MQTT communication architecture
+* Offline-first synchronization
+* Persistent message recovery
+* Background connectivity optimization
 
-- Implemented refresh-token based authentication system  
-- Secure storage using Keychain  
-- Session management with auto re-authentication  
+**Stack**
 
-**Tech Stack:** Swift, Keychain, REST APIs
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamSp777&hide_border=true"/>
-</p>
+```text
+Swift • MQTT • CoreData • MVVM
+```
 
 ---
 
-## 🚀 Currently Exploring
+## 📊 High-Frequency Data Streaming Dashboard
 
-- Advanced Swift Concurrency patterns  
-- Scalable architecture for large iOS codebases  
-- Performance optimization in real-time systems  
-- Modular iOS frameworks for enterprise apps  
+Real-time dashboard optimized for continuous updates.
+
+### Highlights
+
+* UI update batching
+* Rendering optimization
+* Reduced frame drops
+* Smooth scrolling under load
+
+**Stack**
+
+```text
+UIKit • Combine • WebSockets
+```
+
+---
+
+## 🔐 Secure Authentication Framework
+
+Enterprise-grade authentication system.
+
+### Features
+
+* Refresh token lifecycle
+* Secure Keychain storage
+* Auto re-authentication
+* Session persistence
+
+**Stack**
+
+```text
+Swift • Keychain • REST APIs
+```
 
 ---
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/ShivamSp777  
-- LinkedIn: https://www.linkedin.com/in/shivam-pandey-798a85152/ 
-- Email: pandeyshivamsp526@gmail.com
+# 📈 GitHub Analytics
 
 ---
 
-## 🧩 Philosophy
-
-> "Build systems that don't just work — but perform reliably under real-world constraints."
+# 🏆 GitHub Trophies
 
 ---
+
+# 🔥 Contribution Graph
+
+---
+
+# 🐍 Contribution Snake
+
+---
+
+# 🎯 Currently Exploring
+
+* Advanced Swift Concurrency
+* Distributed Mobile Systems
+* Enterprise iOS Architecture
+* Modular SDK Development
+* Performance Engineering
+
+---
+
+# 🌎 Connect With Me
+
+---
+
+# 💭 Engineering Philosophy
+
+### "Build systems that remain reliable under real-world constraints."
+
+### ⚡ Performance Is A Feature
